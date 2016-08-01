@@ -1,1 +1,3 @@
-http://chtd.io/malware_chtt_000/swf_exploit_81c253522cd2b4d53419a03c68c1d9f579c6fe6a2bec8860f46bb03434a0d00f
+http://chtd.io/malware_chtt_000/swf_exploit_81c253522cd2b4d53419a03c68c1d9f579c6fe6a2bec8860f46bb03434a0d0
+
+changes made
